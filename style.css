@@ -179,6 +179,8 @@ body {
 	background-color: hsl(158, 36%, 16%);
 }
 
+/* Media Queries */
+
 @media (min-width: 625px) {
 	.product {
 		grid-template-columns: 1fr 1fr;
